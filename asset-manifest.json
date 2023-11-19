@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monkeychat/static/css/main.9d743f85.css",
+    "main.js": "/monkeychat/static/js/main.e9ce15fc.js",
+    "index.html": "/monkeychat/index.html",
+    "main.9d743f85.css.map": "/monkeychat/static/css/main.9d743f85.css.map",
+    "main.e9ce15fc.js.map": "/monkeychat/static/js/main.e9ce15fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d743f85.css",
+    "static/js/main.e9ce15fc.js"
+  ]
+}
